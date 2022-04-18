@@ -17,7 +17,7 @@ sudo apt update
 sudo apt install build-essential libglu1-mesa-dev libpng-dev
 ```
 
-Clone the repository, compile and the application.
+Clone the repository, compile and run the application.
 
 ```
 git clone https://github.com/JakubHaligowski/ClothSim.git
