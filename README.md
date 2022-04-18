@@ -1,5 +1,11 @@
 # ClothSim
 Simple cloth simulation made in C++, with olcPixelGameEngine used for visualzation and user inputs.
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+# Controls
+spacebar - pasue/play the simulation
+L-ctrl + mouse - cut the cloth
+r - reset
 
 # Build and run on Linux
 
@@ -15,10 +21,12 @@ Clone the repository, compile and the application.
 
 ```
 git clone https://github.com/JakubHaligowski/ClothSim.git
-cd ./ClothSim/ClothSim
-g++ -o ClothSim main.cpp -lX11 -lGL -lpthread -lpng -lstdc++fs -std=c++17
-./ClothSim
 
+cd ./ClothSim/ClothSim
+
+g++ -o ClothSim main.cpp -lX11 -lGL -lpthread -lpng -lstdc++fs -std=c++17
+
+./ClothSim
 ```
 
 # License (OLC-3)
