@@ -1,6 +1,6 @@
 # ClothSim
 Simple cloth simulation made in C++, with olcPixelGameEngine used for visualzation and user inputs.
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://i.ibb.co/GstnBxd/ClothSim.gif)
 
 # Controls
 spacebar - pasue/play the simulation
