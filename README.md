@@ -3,9 +3,9 @@ Simple cloth simulation made in C++, with olcPixelGameEngine used for visualzati
 ![Alt Text](https://i.ibb.co/GstnBxd/ClothSim.gif)
 
 # Controls
-spacebar - pasue/play the simulation
-L-ctrl + mouse - cut the cloth
-r - reset
+* spacebar - pasue/play the simulation
+* L-ctrl + mouse - cut the cloth
+* r - reset
 
 # Build and run on Linux
 
